@@ -8,7 +8,7 @@ public class SelfIntroduction {
 		String name= "馬場　彩寧";
 		// 年齢
 		int age = 23;
-		//趣味
+		// 趣味
 		String hobby = "韓ドラ・YouTube鑑賞";
 
 
