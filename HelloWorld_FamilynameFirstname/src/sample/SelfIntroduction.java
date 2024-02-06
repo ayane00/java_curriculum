@@ -4,9 +4,9 @@ public class SelfIntroduction {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		//氏名
+		// 氏名
 		String name= "馬場　彩寧";
-		//趣味
+		// 趣味
 		int age = 23;
 
 		/*
